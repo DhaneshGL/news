@@ -1,0 +1,6 @@
+![Alt text](./news/images/1.png)
+![Alt text](./news/images/2.png)
+![Alt text](./news/images/3.png)
+![Alt text](./news/images/4.png)
+![Alt text](./news/images/5.png)
+![Alt text](./news/images/6.png)
